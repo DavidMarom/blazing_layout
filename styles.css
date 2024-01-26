@@ -45,12 +45,14 @@
 .rs {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
+    justify-content: flex-start;
+    align-items: flex-end;
 }
 
 .re {
     display: flex;
     flex-direction: row;
+    justify-content: flex-end;
     align-items: flex-end;
 }
 
