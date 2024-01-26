@@ -35,4 +35,8 @@ import 'blazing-layout'
 
 ## License
 MIT
+
+## Example
+![Blazing Layout](https://res.cloudinary.com/dojmo7vcc/image/upload/v1706300077/example_gx8gn0.png)
+
 ```

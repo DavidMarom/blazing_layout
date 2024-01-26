@@ -22,6 +22,7 @@
     "url": "https://github.com/DavidMarom/blazing_layout/issues"
   },
   "homepage": "https://github.com/DavidMarom/blazing_layout#readme",
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "blazing-layout": "^1.2.1"
+  }
 }
