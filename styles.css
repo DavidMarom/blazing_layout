@@ -1,3 +1,12 @@
+/* Row */
+
+.ras {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
 .rac {
     display: flex;
     flex-direction: row;
@@ -5,11 +14,42 @@
     align-items: center;
 }
 
-.rbc {
+.rae {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    align-items: flex-end;
+}
+
+.rbs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.rbc {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
+}
+
+.rbe {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+
+/* Column */
+
+.cas {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
 }
 
 .cac {
@@ -17,4 +57,32 @@
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+}
+
+.cae {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: end;
+}
+
+.cbs {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.cbc {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cbe {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: end;
 }
