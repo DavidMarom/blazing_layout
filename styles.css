@@ -42,6 +42,17 @@
     align-items: flex-end;
 }
 
+.rs {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.re {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
 
 /* Column */
 
