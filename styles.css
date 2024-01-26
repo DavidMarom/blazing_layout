@@ -42,14 +42,42 @@
     align-items: flex-end;
 }
 
-.rs {
+.rse {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
     align-items: flex-end;
 }
 
-.re {
+.rsc {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.rss {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.res {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.rec {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.ree {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;

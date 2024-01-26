@@ -1,3 +1,5 @@
+![Blazing Layout](https://res.cloudinary.com/dojmo7vcc/image/upload/v1706298574/blaze_jh69dh.png "Blazing Layout")
+
 # Blazing Layout
 Blazing fast css layout framework
 
@@ -18,8 +20,12 @@ import 'blazing-layout'
 - .rbs: Row between start
 - .rbc: Row between center
 - .rbe: Row between end
-- .rs: Row start
-- .re: Row end
+- .rse: Row start end
+- .rsc: Row start center
+- .rss: Row start start
+- .ree: Row end end
+- .rec: Row end center
+- .res: Row end start
 - .cas: Column around start
 - .cac: Column around center
 - .cae: Column around end
