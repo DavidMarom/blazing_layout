@@ -1,6 +1,6 @@
 {
   "name": "blazing-layout",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Blazing fast css layout framework",
   "main": "styles.css",
   "scripts": {
