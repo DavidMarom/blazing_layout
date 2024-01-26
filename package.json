@@ -1,0 +1,27 @@
+{
+  "name": "@davidmarom/blazing-layout",
+  "version": "1.4.2",
+  "description": "Blazing fast layout css framework",
+  "main": "styles.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:DavidMarom/blazing_layout.git"
+  },
+  "keywords": [
+    "layout",
+    "css",
+    "fast",
+    "flexbox"
+  ],
+  "author": "David Marom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidMarom/blazing_layout/issues"
+  },
+  "homepage": "https://github.com/DavidMarom/blazing_layout#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
