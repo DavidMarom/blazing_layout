@@ -7,10 +7,13 @@ Blazing fast css layout framework
 ```npm i blazing-layout```
 
 ## Usage
-```
+```js
 import 'blazing-layout'
 
-<div class="rac"></div>
+<div class="rac">
+    <div>01</div>
+    <div>02</div>
+</div>
 ```
 
 ## Classes
